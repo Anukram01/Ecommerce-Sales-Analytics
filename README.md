@@ -4,6 +4,17 @@ An end-to-end data analytics project evaluating transaction performance, categor
 
 ---
 
+## 📊 Executive Summary & Key Metrics
+
+| Metric | Value | Business Takeaway |
+| :--- | :--- | :--- |
+| **Total Revenue** | $363,204.39 | Consumer segment generates 51.3% of total revenue |
+| **Net Profit** | $33,956.83 | 9.35% overall net profit margin |
+| **Discount Threshold** | < 30% | Discounts $\ge$ 30% erode furniture margins below 0% |
+| **Active Segments** | 4 RFM Personas | Champions drive recurring order volume |
+
+---
+
 ## 📌 Business Problem & Objectives
 Modern e-commerce platforms often encounter revenue leakages driven by heavy discounting, uneven regional margins, and increasing customer churn. This project provides analytical solutions to:
 - Identify loss-making product categories and evaluate discount threshold risks.
@@ -28,6 +39,13 @@ Modern e-commerce platforms often encounter revenue leakages driven by heavy dis
 
 ---
 
+## 🎯 Strategic Business Recommendations
+1. **Dynamic Discount Caps:** Cap promotional discounts at 25% for high-shipping-cost categories (Tables, Bookcases) to protect gross margins.
+2. **Targeted Retention Campaigns:** Trigger automated re-engagement workflows for customers in the "At Risk" RFM bucket before the 90-day inactivity threshold.
+3. **Cross-Sell Incentives:** Bundle high-margin Technology accessories with Consumer Office Supplies to lift average order value (AOV).
+
+---
+
 ## 📂 Repository Contents
 - `Ecommerce_Sales_Analytics.ipynb` : Cleaned pipeline, exploratory analysis, profit distributions, and RFM modeling.
 - `queries.sql` : Production-grade SQL queries analyzing product ranking, margin leaks, and growth trajectories.
@@ -36,7 +54,6 @@ Modern e-commerce platforms often encounter revenue leakages driven by heavy dis
 ---
 
 ## 🚀 How to Run Locally
-1. Clone the repository:
 git clone https://github.com/Anukram01/Ecommerce-Sales-Analytics.git
 cd Ecommerce-Sales-Analytics
 pip install pandas numpy matplotlib seaborn
