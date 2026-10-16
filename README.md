@@ -44,6 +44,15 @@ Modern e-commerce platforms often encounter revenue leakages driven by heavy dis
 2. **Targeted Retention Campaigns:** Trigger automated re-engagement workflows for customers in the "At Risk" RFM bucket before the 90-day inactivity threshold.
 3. **Cross-Sell Incentives:** Bundle high-margin Technology accessories with Consumer Office Supplies to lift average order value (AOV).
 
+### 🎯 What-If Strategic Simulation: Discount Capping
+To address margin erosion caused by aggressive discounting (≥30%), a simulation model was executed capping maximum discounts at 25%:
+
+| Metric | Baseline | Post-Simulation (25% Cap) | Net Impact |
+| :--- | :--- | :--- | :--- |
+| **Net Profit** | $33,956.83 | $81,356.96 | **+$47,400.13 (+139.6%)** |
+
+> **Key Takeaway:** Strategic discount thresholding eliminates severe losses in margin-eroding lines while preserving volume among high-value customer cohorts.
+> 
 ---
 
 ## 📂 Repository Contents
