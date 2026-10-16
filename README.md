@@ -44,6 +44,7 @@ Modern e-commerce platforms often encounter revenue leakages driven by heavy dis
 1. **Dynamic Discount Caps:** Cap promotional discounts at 25% for high-shipping-cost categories (Tables, Bookcases) to protect gross margins.
 2. **Targeted Retention Campaigns:** Trigger automated re-engagement workflows for customers in the "At Risk" RFM bucket before the 90-day inactivity threshold.
 3. **Cross-Sell Incentives:** Bundle high-margin Technology accessories with Consumer Office Supplies to lift average order value (AOV).
+<img width="784" height="390" alt="1000094337" src="https://github.com/user-attachments/assets/c5039ed5-96b4-4e1e-8c2a-00df27aeebdb" />
 
 ### 🎯 What-If Strategic Simulation: Discount Capping
 To address margin erosion caused by aggressive discounting (≥30%), a simulation model was executed capping maximum discounts at 25%:
