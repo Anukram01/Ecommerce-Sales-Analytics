@@ -36,6 +36,7 @@ Modern e-commerce platforms often encounter revenue leakages driven by heavy dis
 2. **Revenue Concentration:** The Consumer segment accounts for 51.3% of total platform revenue, followed by Corporate (28.0%) and Home Office (20.8%).
 3. **Category Margins:** Technology and Office Supplies maintain steady margins, while specific furniture sub-categories operate near loss thresholds due to logistics and markdown practices.
 4. **Retention Opportunities:** RFM segmentation categorized buyers into actionable personas (Champions, Potential Loyalists, At Risk, and Lost), pinpointing high-value churn risks before complete attrition.
+<img width="707" height="393" alt="1000094335" src="https://github.com/user-attachments/assets/eff25e33-d625-4030-b143-28caaed0902d" />
 
 ---
 
