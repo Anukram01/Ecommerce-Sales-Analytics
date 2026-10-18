@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales & Customer Segmentation Analytics
+# 🛒 E-Commerce RFM Segmentation & Profitability Dashboard
 
 An end-to-end data analytics project evaluating transaction performance, category profitability, discount sensitivity, and customer lifetime value using **SQL (MySQL)** and **Python (Pandas, Seaborn)**.
 
