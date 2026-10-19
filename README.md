@@ -1,7 +1,7 @@
 # 🛒 E-Commerce RFM Segmentation & Profitability Dashboard
 
 An end-to-end data analytics project evaluating transaction performance, category profitability, discount sensitivity, and customer lifetime value using **SQL (MySQL)** and **Python (Pandas, Seaborn)**.
-
+![Power BI Dashboard](Screenshot%202026-10-18%20182202.png)
 ---
 
 ## 📊 Executive Summary & Key Metrics
@@ -28,7 +28,7 @@ Modern e-commerce platforms often encounter revenue leakages driven by heavy dis
 - **Data Wrangling & Analysis:** Python (`pandas`, `numpy`)
 - **Visual Analytics:** `seaborn`, `matplotlib`
 - **Analytics Frameworks:** RFM Segmentation, Margin Sensitivity Analysis, MoM Trajectory
-
+- **Business Intelligence & Dashboards:** Power BI Desktop (DAX, RFM Segmentation, Interactive Slicers, Custom Reset Action)
 ---
 
 ## 💡 Key Business Findings
